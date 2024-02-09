@@ -1,0 +1,305 @@
+{
+    "jokes": [
+      {
+        "1": "Why don't scientists trust atoms? Because they make up everything!"
+      },
+      {
+        "2": "Parallel lines have so much in common. It's a shame they'll never meet."
+      },
+      {
+        "3": "I told my wife she was drawing her eyebrows too high. She looked surprised."
+      },
+      {
+        "4": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "5": "What do you call fake spaghetti? An impasta!"
+      },
+      {
+        "6": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      },
+      {
+        "7": "What do you get when you cross a snowman with a vampire? Frostbite!"
+      },
+      {
+        "8": "I'm reading a book on anti-gravity. It's impossible to put down!"
+      },
+      {
+        "9": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "10": "How does a penguin build its house? Igloos it together!"
+      },
+      {
+        "11": "I would tell you a joke about an elevator, but it’s an uplifting experience."
+      },
+      {
+        "12": "Why did the golfer bring two pairs of pants? In case he got a hole in one!"
+      },
+      {
+        "13": "I'm on a whiskey diet. I've lost three days already."
+      },
+      {
+        "14": "Why did the tomato turn red? Because it saw the salad dressing!"
+      },
+      {
+        "15": "What did one ocean say to the other ocean? Nothing, they just waved."
+      },
+      {
+        "16": "Why was the math book sad? Because it had too many problems."
+      },
+      {
+        "17": "What do you call cheese that isn't yours? Nacho cheese!"
+      },
+      {
+        "18": "I'm reading a book about anti-gravity. It's impossible to put down!"
+      },
+      {
+        "19": "Why don't eggs tell jokes? Because they might crack up!"
+      },
+      {
+        "20": "I told my computer I needed a break and now it won't stop sending me vacation ads."
+      },
+      {
+        "21": "Why was the belt arrested? For holding up a pair of pants!"
+      },
+      {
+        "22": "What's orange and sounds like a parrot? A carrot!"
+      },
+      {
+        "23": "I'm reading a book on the history of glue. I just can't seem to put it down."
+      },
+      {
+        "24": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "25": "What do you call a bear with no teeth? A gummy bear!"
+      },
+      {
+        "26": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      },
+      {
+        "27": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "28": "I'm terrified of elevators, so I'm going to start taking steps to avoid them."
+      },
+      {
+        "29": "I told my wife she should embrace her mistakes. She gave me a hug."
+      },
+      {
+        "30": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "31": "What did one snowman say to the other snowman? Do you smell carrots?"
+      },
+      {
+        "32": "I told my wife she was drawing her eyebrows too high. She looked surprised."
+      },
+      {
+        "33": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "34": "Parallel lines have so much in common. It's a shame they'll never meet."
+      },
+      {
+        "35": "What do you call a factory that makes good products? A satisfactory!"
+      },
+      {
+        "36": "What do you call fake spaghetti? An impasta!"
+      },
+      {
+        "37": "Why don't scientists trust atoms? Because they make up everything!"
+      },
+      {
+        "38": "I'm reading a book on anti-gravity. It's impossible to put down!"
+      },
+      {
+        "39": "Why was the math book sad? Because it had too many problems."
+      },
+      {
+        "40": "Why don't eggs tell jokes? Because they might crack up!"
+      },
+      {
+        "41": "I'm reading a book about anti-gravity. It's impossible to put down!"
+      },
+      {
+        "42": "What do you call cheese that isn't yours? Nacho cheese!"
+      },
+      {
+        "43": "Why was the belt arrested? For holding up a pair of pants!"
+      },
+      {
+        "44": "I'm on a whiskey diet. I've lost three days already."
+      },
+      {
+        "45": "What's orange and sounds like a parrot? A carrot!"
+      },
+      {
+        "46": "I'm reading a book on the history of glue. I just can't seem to put it down."
+      },
+      {
+        "47": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "48": "What do you call a bear with no teeth? A gummy bear!"
+      },
+      {
+        "49": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      },
+      {
+        "50": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "51": "I'm terrified of elevators, so I'm going to start taking steps to avoid them."
+      },
+      {
+        "52": "I told my wife she should embrace her mistakes. She gave me a hug."
+      },
+      {
+        "53": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "54": "What did one snowman say to the other snowman? Do you smell carrots?"
+      },
+      {
+        "55": "I told my wife she was drawing her eyebrows too high. She looked surprised."
+      },
+      {
+        "56": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "57": "Parallel lines have so much in common. It's a shame they'll never meet."
+      },
+      {
+        "58": "What do you call a factory that makes good products? A satisfactory!"
+      },
+      {
+        "59": "What do you call fake spaghetti? An impasta!"
+      },
+      {
+        "60": "Why don't scientists trust atoms? Because they make up everything!"
+      },
+      {
+        "61": "I'm reading a book on anti-gravity. It's impossible to put down!"
+      },
+      {
+        "62": "Why was the math book sad? Because it had too many problems."
+      },
+      {
+        "63": "Why don't eggs tell jokes? Because they might crack up!"
+      },
+      {
+        "64": "I'm reading a book about anti-gravity. It's impossible to put down!"
+      },
+      {
+        "65": "What do you call cheese that isn't yours? Nacho cheese!"
+      },
+      {
+        "66": "Why was the belt arrested? For holding up a pair of pants!"
+      },
+      {
+        "67": "I'm on a whiskey diet. I've lost three days already."
+      },
+      {
+        "68": "What's orange and sounds like a parrot? A carrot!"
+      },
+      {
+        "69": "I'm reading a book on the history of glue. I just can't seem to put it down."
+      },
+      {
+        "70": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "71": "What do you call a bear with no teeth? A gummy bear!"
+      },
+      {
+        "72": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      },
+      {
+        "73": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "74": "I'm terrified of elevators, so I'm going to start taking steps to avoid them."
+      },
+      {
+        "75": "I told my wife she should embrace her mistakes. She gave me a hug."
+      },
+      {
+        "76": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "77": "What did one snowman say to the other snowman? Do you smell carrots?"
+      },
+      {
+        "78": "I told my wife she was drawing her eyebrows too high. She looked surprised."
+      },
+      {
+        "79": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "80": "Parallel lines have so much in common. It's a shame they'll never meet."
+      },
+      {
+        "81": "What do you call a factory that makes good products? A satisfactory!"
+      },
+      {
+        "82": "What do you call fake spaghetti? An impasta!"
+      },
+      {
+        "83": "Why don't scientists trust atoms? Because they make up everything!"
+      },
+      {
+        "84": "I'm reading a book on anti-gravity. It's impossible to put down!"
+      },
+      {
+        "85": "Why was the math book sad? Because it had too many problems."
+      },
+      {
+        "86": "Why don't eggs tell jokes? Because they might crack up!"
+      },
+      {
+        "87": "I'm reading a book about anti-gravity. It's impossible to put down!"
+      },
+      {
+        "88": "What do you call cheese that isn't yours? Nacho cheese!"
+      },
+      {
+        "89": "Why was the belt arrested? For holding up a pair of pants!"
+      },
+      {
+        "90": "I'm on a whiskey diet. I've lost three days already."
+      },
+      {
+        "91": "What's orange and sounds like a parrot? A carrot!"
+      },
+      {
+        "92": "I'm reading a book on the history of glue. I just can't seem to put it down."
+      },
+      {
+        "93": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "94": "What do you call a bear with no teeth? A gummy bear!"
+      },
+      {
+        "95": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      },
+      {
+        "96": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "97": "I'm terrified of elevators, so I'm going to start taking steps to avoid them."
+      },
+      {
+        "98": "I told my wife she should embrace her mistakes. She gave me a hug."
+      },
+      {
+        "99": "Why couldn't the bicycle stand up by itself? It was two-tired."
+      },
+      {
+        "100": "What did one snowman say to the other snowman? Do you smell carrots?"
+      }
+    ]
+  }
+  
